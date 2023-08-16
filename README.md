@@ -6,11 +6,11 @@
   <img align="left" alt="Georgiy's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <br/> <br/>
-<a href="https://profile.codersrank.io/user/hawkkiller">
+<a href="https://profile.codersrank.io/user/zhorenty">
   <img align="left" alt="Michael's Codersrank" src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" />
 </a>
 <br/> <br/>
-<a href="https://www.linkedin.com/in/georgiy-voloshin-b0a9b11a7/">
+<a href="https://www.linkedin.com/in/zhorenty/">
   <img align="left" alt="Georgiy's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br/> <br/>
