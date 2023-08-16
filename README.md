@@ -18,10 +18,6 @@
   <img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 <br/> <br/>
-<a href="mailto:zhorenty@gmail.com">
-  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<br/> <br/>
 
 
 ### ☎️ Contacts 
