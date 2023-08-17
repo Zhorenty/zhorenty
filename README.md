@@ -24,9 +24,13 @@
 + **My articles:** [zhorenty.notion.site](https://zhorenty.notion.site/Programming-notes-d81f0d0e3a7547e4a57764c2505fd268)  
 + **E-mail:** [zhorenty@gmail.com](mailto:zhorenty@gmail.com)
 
+---
+
 ### 📈 Scores & Stats  
   
 [![zhorenty's Github Stats](https://github-readme-stats.vercel.app/api?username=zhorenty&count_private=true&theme=default&show_icons=true)](https://github.com/zhorenty) 
+
+---
   
 ### ⚙️ Tech stack  
 
