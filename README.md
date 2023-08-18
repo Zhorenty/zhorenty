@@ -1,7 +1,7 @@
 # Georgiy "**Zhorenty**" Voloshin
 ## Flutter middle developer
 
- 
+ ### ☎️ Contacts 
 <a href="https://t.me/zhorenty">
   <img align="left" alt="Georgiy's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
@@ -13,22 +13,13 @@
 </a>
 <a href="https://www.linkedin.com/in/zhorenty/">
   <img align="left" alt="Georgiy's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a href="mailto:zhorenty@gmail.com">
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <br/> <br/>
 
-
-### ☎️ Contacts 
-
-+ **My articles:** [zhorenty.notion.site](https://zhorenty.notion.site/Programming-notes-d81f0d0e3a7547e4a57764c2505fd268)  
-+ **E-mail:** [zhorenty@gmail.com](mailto:zhorenty@gmail.com)
-
 ---
 
-### 📈 Scores & Stats  
-  
-[![zhorenty's Github Stats](https://github-readme-stats.vercel.app/api?username=zhorenty&count_private=true&theme=default&show_icons=true)](https://github.com/zhorenty) 
-
----
-  
 ### ⚙️ Tech stack  
 
 <a href="https://dart.dev/">
@@ -55,3 +46,14 @@
 <a href="https://isocpp.org/">
   <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>
+<br/> <br/>
+
+---
+
+### 📈 Scores & Stats  
+  
+[![zhorenty's Github Stats](https://github-readme-stats.vercel.app/api?username=zhorenty&count_private=true&theme=default&show_icons=true)](https://github.com/zhorenty) 
+<br/> <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhorenty)](https://github.com/zhorenty/github-readme-stats)
+
+  
