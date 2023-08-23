@@ -1,5 +1,4 @@
 # Georgiy "**Zhorenty**" Voloshin
-## Flutter middle developer
 
  ### ☎️ Contacts 
 <a href="https://t.me/zhorenty">
